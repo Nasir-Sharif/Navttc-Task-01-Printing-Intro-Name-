@@ -9,7 +9,7 @@ This repository contains a Python script for Printing your into with name, The m
 
 ## Code
 print ("My Name is Nasir Sharif") <br>
-print ("Today is my first day in my class in Navttc Python Course")
-print ("This is my first program of Advanced Python")
-print("I am sure to learn a lot of foundational things in this course")
-print(":/")
+print ("Today is my first day in my class in Navttc Python Course")  <br>
+print ("This is my first program of Advanced Python")  
+print("I am sure to learn a lot of foundational things in this course")  
+print(":/")  
